@@ -356,12 +356,12 @@ const PROJECTS = [
     technologies: ["Figma", "Web Design", "Typography", "Interaction Design"],
   },
   {
-    title: "Ediitng Kegiatan Qurban",
+    title: "Editing Kegiatan Qurban",
     category: "Editing",
     image: "image/Editing.png",
     description:
       "Mengedit dan menyusun video dokumentasi kegiatan Qurban dari footage berformat Log, termasuk proses color grading dan penyatuan footage menjadi video yang menarik serta mudah dikonsumsi publik.",
-    technologies: "Davinci Resolve",
+    technologies: ["Davinci Resolve"],
   },
 ];
 

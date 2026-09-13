@@ -623,6 +623,12 @@ footer{
   .proj-grid{grid-template-columns:1fr}
   .sk-grid{gap:16px}
   #btt{bottom:16px;right:16px}
+
+  #about .about-body {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
 }
 
 @media(prefers-reduced-motion:reduce){
